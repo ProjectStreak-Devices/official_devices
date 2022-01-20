@@ -19,7 +19,12 @@
         "raphael": {
             "name": "Mi 9T Pro",
             "maintainer": "ejbtrd"
+        },
+        "merlinx": {
+            "name": "Redmi Note 9",
+            "maintainer": "AlanT59"
         }
+
     },
     "OnePlus": {
         "kebab": {
