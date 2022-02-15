@@ -31,6 +31,10 @@
         "surya": {
             "name": "POCO X3 NFC",
             "maintainer": "windeqk"
+        },
+        "miatoll": {
+            "name": "Xiaomi POCO M2 Pro / Redmi Note 9S/ Redmi Note 9 Pro / Redmi Note 9 Pro Max ",
+            "maintainer": "zlewchan"
         }
     },
     "OnePlus": {
