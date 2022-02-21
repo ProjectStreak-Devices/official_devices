@@ -32,6 +32,10 @@
             "name": "Mi 9T Pro",
             "maintainer": "ejbtrd"
         },
+        "renoir": {
+            "name": "Mi 11 Lite 5G",
+            "maintainer": "ArixElo"
+        },
         "surya": {
             "name": "POCO X3 NFC",
             "maintainer": "windeqk"
