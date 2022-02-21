@@ -18,7 +18,8 @@
         },
         "apollo": {
             "name": "Mi 10T/10T Pro",
-            "maintainer": "ejbtrd"
+            "maintainer": "ejbtrd",
+            "discontinued": true
         },
         "beryllium": {
             "name": "POCO F1",
