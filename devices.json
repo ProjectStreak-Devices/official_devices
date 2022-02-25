@@ -25,6 +25,10 @@
             "name": "POCO F1",
             "maintainer": "Nexus"
         },
+        "jasmine_sprout": {
+            "name": "Mi A2",
+            "maintainer": "clarencelol"
+        },
         "lavender": {
             "name": "Redmi Note 7",
             "maintainer": "iszon"
@@ -56,6 +60,10 @@
         "umi": {
             "name": "Mi 10",
             "maintainer": "ejbtrd"
+        },
+        "wayne": {
+            "name": "Mi 6X",
+            "maintainer": "clarencelol"
         }
     }
 }
