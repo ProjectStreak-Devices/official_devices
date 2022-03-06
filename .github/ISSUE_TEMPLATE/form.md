@@ -17,11 +17,9 @@ Brand, device name (codename)
 
 - Device sources:
 
-```
 https://github.com/user/device_brand_codename
 https://github.com/user/kernel_brand_codename
 https://github.com/user/vendor_brand_codename
-```
 
 - Reason for prebuilt kernel (if applies):
 
