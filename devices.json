@@ -57,6 +57,10 @@
             "name": "POCO X3 NFC",
             "maintainer": "windeqk"
         },
+        "sweet": {
+            "name": "Redmi Note 10 Pro",
+            "maintainer": "thefaizanbashir"
+        },
         "umi": {
             "name": "Mi 10",
             "maintainer": "ejbtrd"
