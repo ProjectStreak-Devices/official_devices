@@ -49,6 +49,10 @@
             "name": "Mi 9T Pro",
             "maintainer": "ejbtrd"
         },
+        "sweet": {
+            "name": "Redmi Note 10 Pro",
+            "maintainer": "thefaizanbashir"
+        },
         "renoir": {
             "name": "Mi 11 Lite 5G",
             "maintainer": "ArixElo"
