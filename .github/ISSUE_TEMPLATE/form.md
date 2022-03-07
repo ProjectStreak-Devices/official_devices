@@ -2,7 +2,7 @@
 name: Device maintainership form
 about: Apply for official maintainership
 title: Maintainership for <<codename>>
-assignees: [ejbtrd]
+assignees: [ejbtrd, zlewchan]
 ---
 
 <!--
