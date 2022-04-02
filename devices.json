@@ -44,7 +44,8 @@
         },
         "miatoll": {
             "name": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max ",
-            "maintainer": "zlewchan"
+            "maintainer": "zlewchan",
+            "discontinued": true
         },
         "pine": {
             "name": "Redmi 7A",
