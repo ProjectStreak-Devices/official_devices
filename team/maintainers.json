@@ -50,6 +50,14 @@
         "github_username": "HSgod"
     },
     {
+        "name": "iszon",
+        "devices": [
+            "lavender"
+        ],
+        "telegram_username": "iszon",
+        "github_username": "iszon"
+    },
+    {
         "name": "Nexus",
         "devices": [
             "beryllium"
