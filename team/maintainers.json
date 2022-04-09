@@ -92,7 +92,8 @@
     {
         "name": "zlewchan",
         "devices": [
-            "laurel_sprout"
+            "laurel_sprout",
+            "miatoll"
         ],
         "telegram_username": "zlewchan",
         "github_username": "zlewchan"
