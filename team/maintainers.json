@@ -28,6 +28,7 @@
         "name": "ejbtrd",
         "devices": [
             "apollo",
+            "renoir",
             "raphael"
         ],
         "telegram_username": "ejbtrd",
