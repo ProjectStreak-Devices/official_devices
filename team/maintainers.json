@@ -27,8 +27,7 @@
     {
         "name": "ejbtrd",
         "devices": [
-            "apollo",
-            "renoir",
+            "renoir"
         ],
         "telegram_username": "ejbtrd",
         "github_username": "ejbtrd"
