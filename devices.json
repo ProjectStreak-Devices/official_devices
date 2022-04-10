@@ -36,10 +36,6 @@
             "name": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max ",
             "maintainer": "zlewchan"
         },
-        "raphael": {
-            "name": "Mi 9T Pro",
-            "maintainer": "ejbtrd"
-        },
         "renoir": {
             "name": "Mi 11 Lite 5G",
             "maintainer": "ArixElo, ejbtrd"
