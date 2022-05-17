@@ -3,34 +3,26 @@
         "name": "ArixElo",
         "devices": [
             "renoir"
-        ],
-        "telegram_username": "ArixElo",
-        "github_username": "ArixElo"
+        ]
     },
     {
         "name": "clarencelol",
         "devices": [
             "jasmine_sprout",
             "wayne"
-        ],
-        "telegram_username": "clarencelol",
-        "github_username": "clarencelol"
+        ]
     },
     {
         "name": "ejbtrd",
         "devices": [
             "renoir"
-        ],
-        "telegram_username": "ejbtrd",
-        "github_username": "ejbtrd"
+        ]
     },
     {
         "name": "zlewchan",
         "devices": [
             "laurel_sprout",
             "miatoll"
-        ],
-        "telegram_username": "zlewchan",
-        "github_username": "zlewchan"
+        ]
     }
 ]
