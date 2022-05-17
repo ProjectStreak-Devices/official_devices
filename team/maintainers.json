@@ -1,13 +1,5 @@
 [
     {
-        "name": "AlanT59",
-        "devices": [
-            "merlinx"
-        ],
-        "telegram_username": "AlanT59",
-        "github_username": "AlanT59"
-    },
-    {
         "name": "ArixElo",
         "devices": [
             "renoir"
@@ -31,54 +23,6 @@
         ],
         "telegram_username": "ejbtrd",
         "github_username": "ejbtrd"
-    },
-    {
-        "name": "HSgod",
-        "devices": [
-            "alioth"
-        ],
-        "telegram_username": "HSgod02",
-        "github_username": "HSgod"
-    },
-    {
-        "name": "iszon",
-        "devices": [
-            "lavender"
-        ],
-        "telegram_username": "iszon",
-        "github_username": "iszon"
-    },
-    {
-        "name": "Nexus",
-        "devices": [
-            "beryllium"
-        ],
-        "telegram_username": "GODFATHER_AF",
-        "github_username": "NEXUS003"
-    },
-    {
-        "name": "SoGreeno",
-        "devices": [
-            "pine"
-        ],
-        "telegram_username": "SoGreeno",
-        "github_username": "SoGreeno"
-    },
-    {
-        "name": "Windeqk",
-        "devices": [
-            "surya"
-        ],
-        "telegram_username": "windeqk",
-        "github_username": "windeqk"
-    },
-    {
-        "name": "xK4m3l",
-        "devices": [
-            "lemonkebab"
-        ],
-        "telegram_username": "xK4m3l",
-        "github_username": "xK4m3l"
     },
     {
         "name": "zlewchan",

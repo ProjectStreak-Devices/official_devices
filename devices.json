@@ -1,21 +1,5 @@
 {
-    "Realme": {
-        "r5x": {
-            "name": "Realme 5 Series",
-            "maintainer": "COSMOS | Biswajit",
-            "discontinued": true
-        }
-    },
     "Xiaomi": {
-        "alioth": {
-            "name": "POCO F3",
-            "maintainer": "HSgod"
-        },
-        "apollo": {
-            "name": "Mi 10T/10T Pro",
-            "maintainer": "ejbtrd",
-            "discontinued": true
-        },
         "jasmine_sprout": {
             "name": "Mi A2",
             "maintainer": "clarencelol"
@@ -24,14 +8,6 @@
             "name": "Mi A3",
             "maintainer": "zlewchan"
         },
-        "lavender": {
-            "name": "Redmi Note 7",
-            "maintainer": "iszon"
-        },
-        "merlinx": {
-            "name": "Redmi Note 9",
-            "maintainer": "AlanT59"
-        },
         "miatoll": {
             "name": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max ",
             "maintainer": "zlewchan"
@@ -39,10 +15,6 @@
         "renoir": {
             "name": "Mi 11 Lite 5G",
             "maintainer": "ArixElo, ejbtrd"
-        },
-        "surya": {
-            "name": "POCO X3 NFC",
-            "maintainer": "windeqk"
         },
         "umi": {
             "name": "Mi 10",
