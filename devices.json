@@ -24,5 +24,11 @@
             "name": "Mi 6X",
             "maintainer": "clarencelol"
         }
+    },
+    "Realme": {
+        "X2": {
+            "name": "X2",
+            "maintainer": "Retypolkg"
+        }
     }
 }
