@@ -19,6 +19,12 @@
         ]
     },
     {
+        "name": "Retypolkg",
+        "devices": [
+            "x2"
+        ]
+    },
+    {
         "name": "zlewchan",
         "devices": [
             "laurel_sprout",
